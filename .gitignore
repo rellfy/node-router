@@ -1,3 +1,7 @@
+/out
+*.pem
+config.json
+
 # Logs
 logs
 *.log

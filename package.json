@@ -23,7 +23,7 @@
     "@types/request": "^2.48.1",
     "bluebird": "^3.5.3",
     "boom": "^7.3.0",
-    "fastify": "^1.13.4",
+    "fastify": "^2.15.1",
     "fastify-formbody": "^2.0.3",
     "mongoose": "^5.7.5",
     "qs": "^6.6.0",
